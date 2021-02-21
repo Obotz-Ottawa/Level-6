@@ -1,0 +1,16 @@
+NEC protocol:
+
+The wireless remote from the kit woeks whith NEC Protocol.
+
+When we press a key on the IR remote, it transmits 34 in the form of pulses.
+
+The sequence of the frame: PAGE 58
+
+Start of signal - 9ms high puse
+4.5ms low signal - when the key is pressed on the IR remote 
+8 bits of Address for the device
+8 bits of Addres(logical inverse, meaing if input is 0, output will be one and vice versa)
+8 bits of data or command for the device
+8 bits of Data(logical inverse)
+end of signal
+

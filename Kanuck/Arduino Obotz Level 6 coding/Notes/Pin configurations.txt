@@ -1,0 +1,11 @@
+       Uniko Trini  pin config:
+////////////////////////////
+LED Red - PD0
+LED Green - PD1
+LED Blue - PD2
+LED Yellow - PD3
+
+Switch 1 - PB0
+
+External component connection
+LCD - PC7 to PC0 (Except PC3)

@@ -1,0 +1,7 @@
+  TCCR0A = 0x00; → normal mode
+  TCCR0A = 0x40; → Revesed 
+  TCCR0A = 0x80; → Non-inverting mode
+  TCCR0A = 0xC0; → inverting mode
+
+
+

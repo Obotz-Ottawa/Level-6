@@ -1,0 +1,7 @@
+Wireless IR Remote
+PB2 IS THE INPUT FOR THE ir REMOTE - tsop is connected
+Page 31 from evel 4 book - infared Wireless Remote Hex codes and keys
+Since TSOP has 16 bits of address and 16 bits of Data, a total of 32 bit are recived.
+Besides 32 bits if address and data Uniko Dvi also recives "Start of signal(2 bit) and" " end of signal"(1 bit)
+This we do by inisialising bit_position = -2, and this will only read 32 bits of address and data.
+When TSOP does not recive any data, PB2 pin will be high and when the tsop rrecives data PB2 pin will be low.

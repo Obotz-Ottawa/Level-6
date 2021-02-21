@@ -1,0 +1,27 @@
+Joystick:
+
+Converts physical movements to electrical signals to the micro controller 
+it converts movments in two axis: x - axis (L to R), y - axis (U to D)
+
+ADC - Analog to Digital conversion 
+
+Range: 0 - 1023
+
+Joystick movements:
+
+x axis :
+
+Left: 1023
+Center: ~ 512
+Right: 0
+
+y axis :
+
+Up: 1023
+Center: ~ 512
+Down: 0
+
+A2 (Y axis- up and down) and A3 (X axis - Left and Right) PINS of your joystick are analog PINS
+
+
+

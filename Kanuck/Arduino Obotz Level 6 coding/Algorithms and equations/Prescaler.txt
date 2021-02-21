@@ -1,0 +1,1 @@
+Pre 1024 / Pre 256 = 4- 4x the slowness as the Pre 256 so *4 for every time you use pre 1024

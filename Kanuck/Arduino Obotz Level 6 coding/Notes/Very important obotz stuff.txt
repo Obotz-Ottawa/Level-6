@@ -1,0 +1,28 @@
+28 pins in the uniko Uno Atmega 328p
+40 pins in the uniko Dvi Atmega 32
+jouls is energy 
+Volt is Voltage
+Ohm is resistance
+Hz frquency
+Set port pin as input or putput: DDRx 
+Set port pin as High or low
+Usart stands for: Unsiversal synchronus / Aysynchronous Reciver/ Transmitter
+Bluetooth baud rate 9600
+BPS is bit per second
+Atmega 32 is a 8 bit microconntroller
+Atmega 32 has 2 8 bit timers and 1 16 bit timer
+| is bit wise or
+|| logic or
+& bitwise and
+&& logical and
+PD 3 is DDRD = 0xFF; = 0b11111111
+PWM is Pulse Width mudulation
+LCD is liquid crystal display
+4 Pins in at mega 32
+6 in atmega atmega 328p
+Frequency of atmega 32 is 26 mhz
+the number of bits in Adc are 10
+8bit timer can count 256 numbers
+Atmega 32 has 32 KB of Rom and 2 KB of Ram
+In a parrerel connection the voltage remains the same but the current get divide
+the torque of a motor is inversily porpotional to sped

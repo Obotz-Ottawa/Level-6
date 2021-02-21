@@ -1,0 +1,38 @@
+center
+
+X -axis:
+499
+Y-axis:
+517
+
+left
+
+X -axis:
+499
+Y-axis:
+1023
+
+right
+
+X -axis:
+499
+Y-axis:
+0
+
+up
+
+X -axis:
+0
+Y-axis:
+1023
+
+
+up
+
+X -axis:
+1023
+Y-axis:
+0
+
+
+

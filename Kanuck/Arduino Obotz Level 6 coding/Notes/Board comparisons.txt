@@ -1,0 +1,27 @@
+      MicroController's
+////////////////////////
+Uniko Trini  - ATMega324PA
+Unkio Dvi - ATMega32
+Uniko Ekam - ATMega328
+
+		Feutures
+///////////////////////////////////////////////
+Uniko Trini is a 8 bit micro controller
+Uniko Dvi is a 8 bit micro controller
+Uniko ekam is a 8 bit microcontroller
+
+Uniko Trini 32 Kb Rom & 2 kb ram
+
+Clock frequency is 16 MHz
+
+it has 4 bi direnctional ports and 32 input output pins
+20 in/out for ekam
+
+8 ADC pins
+ekam had 6 ADC pins
+
+3 timers and 32 generel registers
+
+28 pins in ekam
+40 in DVI 
+40 in Uniko Trini 

@@ -1,0 +1,40 @@
+			Timers in ATMega 324:
+////////////////////////////////////////////////////////////////////////
+
+- We have 3 timers/counters; 2-8-bit Timers/Counters and 1 16-bit Timer/Counter.
+
+TC0 and TC2 are 8-bit Timers/counters
+TC1 are 16-bit Timers/Counters
+
+The 8-bit Timer/Counter can count up to 255 2^8 (0-255)
+
+The 16-bit Timer/Counter can count upto 65,535 ((2^16)-1)
+
+Registers
+
+1) Timer/Counter Control Register - TCCR 
+2) Timer/Counter register - TCR
+3) OutPut Compare register - OCR
+4)  Timer Interrupt register - TIMR
+
+
+Timer/Counter 0 → 8 bit T/C
+
+TCCR → TCCR0A, B 
+TCNT → TCNT0
+OCR → OCR0A, B
+TIMSK - TIMSK0
+
+Timer/Counter 1 (TC1) → 16 bit T/C
+
+TCCR → TCCR1A, B
+TCNT → TCNT1
+OCR → OCR1A, B
+TIMSK → TIMSK1
+
+Timer/Counter (TC2)
+
+TCCR - TCCR2A, TCCR2B → 8 bit T/C
+TCNT → TCNT2
+OCR → OCR2A, B
+TIMSK - TIMSK2

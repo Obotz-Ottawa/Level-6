@@ -1,0 +1,2 @@
+Status reigster(SREG):
+this register holds up info about the results by arithmetic operation..

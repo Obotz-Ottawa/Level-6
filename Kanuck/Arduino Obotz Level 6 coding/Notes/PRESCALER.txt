@@ -1,0 +1,25 @@
+PRESCALER 64:
+
+TCCR0B = 0x03;
+
+CSn2, CSn1, CSn1 (Clock Select)
+   0       1        1
+
+0b00000011; → 0x03;
+
+PRESCALER 8:
+
+CSn2, CSn1, CSn1 (Clock Select)
+   0       1        0
+
+0b00000010 → 0x02;
+
+TCCR0B = 0x02;
+
+PRESCALER  256 
+
+CSn2, CSn1, CSn1 (Clock Select)
+   1       0        0
+ ob00000100 → 0x04;
+
+TCCR0B = 0x02;

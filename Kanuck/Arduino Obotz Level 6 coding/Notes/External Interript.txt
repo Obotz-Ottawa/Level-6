@@ -1,0 +1,20 @@
+External intrruptes:
+
+there are 3 pins on ATMega324 that seves as external interrupts.
+
+INT0 - PD2
+INT1 - PD3
+INT2 - PB2
+
+We can connect extensal input devices to genterate interrupt intrerrupt signal
+
+To execute the interrupt service routine, we need to enable external Interrupt registers.
+
+10 EICRA - External Interrupt service routine Register A
+This register is used to control interrupt sense control bits for a particular bit
+
+The external interrupt is used in TSOP to read codes transmitted by the wireless by the wireless IR remote.
+The TSOP is connected to PIND PB2, which is INT2 pin. We have used ISC21 and ISC20 bits in the EICRA register. 
+
+EICRA = 0x20;
+

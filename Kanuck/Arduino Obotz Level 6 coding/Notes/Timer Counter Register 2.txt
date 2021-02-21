@@ -1,0 +1,14 @@
+Timer/Counter Register (TCNTn):
+
+There is an 8-bit register for TC0 and TC2 which stores the value of teh counter and increses/decreses automaticlly. The register will bot get activated unless we avtivate the timer. 
+
+Timer/Counter Register Out out compaare Register n A (OCRNA):
+
+this register stores the PWM value for OCRnA pin. the value in this register is constantly compared with TCNTn register to generate a PWM output
+
+
+Timer/Counter Register Out out compaare Register n B (OCRNB):
+
+
+this register stores the PWM value for OCRnB pin. the value in this register is constantly compared with TCNTn register to generate a PWM output
+

@@ -1,0 +1,13 @@
+				
+ A  [{([{(TCCRNA)}])}]
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	TCCRna is used to set the mode which we want to operate the timer. it is also used to set the prescaler.
+
+				Timer/counter Control Resigester Register B [{([{(TCCRnB)}])}]:
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	it is an extesnison of TCCRnA. it holds the bits for the mode with which the timer wants to operate and also for holding the bits for the prescaler.
+
+Presclaer defenetion: 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////	
+	A prescaler is an electronic counting circuit used to reduce a high frequency electrical signal to a lower frequency by integer division. the purpose of the prescaler is to allow the timer to be clocked at the rate a use desires.
+
