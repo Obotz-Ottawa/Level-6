@@ -1,0 +1,12 @@
+ATMega324
+
+Features of ATMega324:
+
+1) It is a 8-bit microcontroller
+2) It has 32 KB ROM and 2KB Ram
+3) The maximum clock frequency is 16 MHz
+4) It has 4 bi directional ports; 32 i/o pins
+5) It has 8 ADC pins
+6) ATMega 324 has 3 timers and 32 general working registers 
+
+Number of pins in Uniko Trini: 40

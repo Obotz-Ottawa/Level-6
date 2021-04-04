@@ -1,0 +1,5 @@
+NEC Protocol:
+
+The IR remote uses NEC Protocol.
+
+Whenever we press a key on the IR remote, it transmits 34 bits in the form of pulses

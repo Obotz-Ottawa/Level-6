@@ -1,0 +1,10 @@
+LEDR - PD0
+LEDG - PD1
+LEDB - PD2
+LEDY - PD3
+
+Switch 1 - PB0
+
+External Component connection:
+
+LCD - PC7 - PC0(except PC3)

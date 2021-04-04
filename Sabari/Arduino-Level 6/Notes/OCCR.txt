@@ -1,0 +1,6 @@
+Output Compare Register n A(OCRnA):
+This register stores the PWM value for OCRnA pin. The value in this register is constantly compared with TCNTn register to generate the PWM output
+
+Output Compare register n B(OCCRnB)"
+
+This register stores the PWM value for OCRnA pin. The value in this register is constantly compared with TCNTn register to generate the PWM output

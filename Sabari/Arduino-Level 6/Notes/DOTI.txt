@@ -1,0 +1,15 @@
+DOTI - Display Output Trini Interface
+DOTI is connected to PORTC
+DOTI consists of Buzzer, trimpot, SSD(Seven Segment Display)
+and LCD pinouts
+
+SSD - Seven Segment Display:
+SSD are classified as Common Anode SSD and Common Cathode SSD
+
+Common Anode SSD:
+-All the anodes in the LEDs are made common(shorter). To glow a segment just need to connect the negative part
+
+Common Cathode SSD:
+-All the cathodes in the LEDs are made common(shorter). To glow a segment just need to connect the positive part
+
+ 

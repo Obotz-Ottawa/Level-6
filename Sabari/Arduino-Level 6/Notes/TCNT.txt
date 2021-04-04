@@ -1,0 +1,5 @@
+Timer/Counter Register (TCNTn)
+
+There is an 8 bit register for TC0 and TC2 which stores value of the counter and increases/decreases automatically. The register will not ger activated unless we activate the timer.
+
+ 

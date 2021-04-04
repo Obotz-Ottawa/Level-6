@@ -1,0 +1,7 @@
+Wireless IR Remote Connection 
+
+PB2
+
+Since the TSOP has 16 bits of address and 16 bits of Data, a total of 32 bits are received
+Besides 32 bits of address and data, Uniko Dvi also receives "Start of signal"(2 bit) and "end of signal"(1 bit) which has to be discarded while displaying the values on the serial monitor
+a

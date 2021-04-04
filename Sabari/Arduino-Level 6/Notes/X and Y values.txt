@@ -1,0 +1,7 @@
+y - middle - 510-520
+y - up - 980-990
+y - down - 0
+
+x - middle - 480-490
+x- - roght - 0
+x - left - 1023

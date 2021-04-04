@@ -1,0 +1,9 @@
+Timer/Counter Control Register A(TCCRnA)
+TCCRnA is used to set the mode in which we want to operate the timer. It is also used to set the prescaler.
+
+
+Timer/Counter Control RegisterB(TCCRnB)
+TCCRnB is an extenstion of TCCRnA. It holds the bits for the mode with which the timer wants to operate and also for holding the bits for the prescaler.
+
+Prescaler:
+A prescaler is an electronic counting circuit used to reduce a high frequency electrical signal to a lower freqeuncy by integer division. The purpose of the prescaler is to allow the timer to be clocked at the rate a user desires

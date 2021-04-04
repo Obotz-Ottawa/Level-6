@@ -1,0 +1,17 @@
+Thermistor:
+
+It is a two terminal analog deivce which is used to measure temperature. It is bidirectional and the resistance pf the thermistor changes with the change in temperature.
+
+2 types of Thermistors:
+
+1) Positive temprature coefficient(PTC) Thermistor
+2) Negative temperature coeffcient(NTC) Thermistor
+
+In PTC, the temperature directly proportional to the resistance of the therminstor.
+
+Resistance increases, temperature also increases and vice versa
+
+In NTC thermistors, the temperature is inversly proportional to the resistance of the thermistor.
+
+We will be using NTC thermistor of 10 Kilo Ohm. 
+10 Kilo Ohm resitance -> 25 degress Celcius
